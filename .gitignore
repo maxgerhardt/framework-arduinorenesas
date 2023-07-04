@@ -1,0 +1,6 @@
+.idea
+cores/arduino/mydebug.cpp
+libraries/Storage/.development
+cores/arduino/mydebug.cpp.donotuse
+.DS_Store
+.DS_Store?

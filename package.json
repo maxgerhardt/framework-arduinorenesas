@@ -1,0 +1,7 @@
+{
+    "description": "Arduino core for Renesas devices",
+    "name": "framework-arduinorenesas",
+    "system": "all",
+    "url": "https://github.com/arduino/ArduinoCore-renesas",
+    "version": "1.10001.0"
+}
